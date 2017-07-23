@@ -1,0 +1,11 @@
+package app
+
+sourcedir = src
+
+executable = app
+
+main = Main
+
+modules = Main
+        , Lights
+        , Interpreter
